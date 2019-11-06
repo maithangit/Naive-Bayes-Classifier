@@ -1,6 +1,7 @@
 # testing bayes classifiers
 from bayes import *
 
+
 dataset = [[3.393533211,2.331273381,0],
 	[3.110073483,1.781539638,0],
 	[1.343808831,3.368360954,0],
